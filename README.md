@@ -14,6 +14,8 @@ Básicamente, analizar el pasado para predecir el futuro. Dicha solución se cen
 
 Los datos fueron extraídos gracias al uso de la librería snscraper, el procesamiento de datos es realizado con Python y el análisis de sentimiento consumiendo servicios de AWS, tales como AWS Translate y AWS Comprehend. 
 
+![Screenshot](assets/images/sitioWeb.jpeg)
+
 ## Autores ✒️
 
 * Ervey Guerrero - _Amazon Web Services, Sentiment analysis, Research_ - [ErveyG](https://github.com/ErveyG)
@@ -24,7 +26,7 @@ Los datos fueron extraídos gracias al uso de la librería snscraper, el proce
 
 ## Sitio Web :computer:
 * Puede visualizar la solución implementada [aquí](http://ec2-44-199-140-237.compute-1.amazonaws.com/).
-* [Pitch en video]()
+* [Pitch en video](https://youtu.be/ARMBmLue9eA)
 
 ---
 ##### Por **Solution Settlers** :bulb:
